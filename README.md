@@ -2,6 +2,7 @@
 
 This is a modern **horizontal** theme based on [Epic Noir](https://github.com/c64-dev/es-theme-epicnoir), that matches the 351ELEC black/white/red aesthetic and the RG351P handheld's resolution and aspect ratio.
 
+Credit for reworks: MonsieurDaz
 
 ---
 
