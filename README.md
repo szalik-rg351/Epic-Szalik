@@ -32,12 +32,14 @@ Game screenshots are not included within the theme. You can scrape your own - yo
 
 ---
 
-## Every single system Supported for 351ELEC
+## Compatibility
+
+Every single system Supported for 351ELEC
 
 ---
 
-LOGO NOTICE:
+## LOGO NOTICE:
 
 The used logos and trademarks are copyright of their respective owners.
 
-
+---
